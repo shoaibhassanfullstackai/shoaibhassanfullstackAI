@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
-- 💻 Proficient in Ruby on Rails, creating robust, secure back-end architectures.
-- 🎨 Skilled in front-end development with React.
+- 💻 Proficient in building secure back-end architectures using NestJS and Python, with scalable front-end systems in Next.js. Experienced in integrating AI/ML models into full-stack applications for intelligent,       data-driven solutions..
+- 🎨 Skilled in front-end development with React, Next.js, TypeScript, Tailwind CSS, and server-side rendering (SSR).
 - 🛢️ Experienced with PostgreSQL and MySQL.
 - 🧪 Proficient in Test-Driven Development (TDD).
 - ☁️ Familiar with cloud platforms like AWS, Azure, and Heroku.
@@ -11,16 +11,16 @@
 ## 🛠️ Tech Stack
 
 ### 🧱 Frameworks
-![Rails](https://img.shields.io/badge/-Rails-red?logo=ruby-on-rails&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### 💬 Languages
-![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,7 +35,8 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
 
 ### 🚀 DevOps & Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)
